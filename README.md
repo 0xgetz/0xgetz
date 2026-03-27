@@ -128,6 +128,10 @@ const eyren: Developer = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=0xgetz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" />
 
+<br/><br/>
+
+![Snake animation](https://raw.githubusercontent.com/0xgetz/0xgetz/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
