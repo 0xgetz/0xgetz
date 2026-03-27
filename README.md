@@ -40,8 +40,6 @@ const eyren = {
 |---------|-------------|-------|
 | [🤖 octra-ai-agent](https://github.com/0xgetz/octra-ai-agent) | AI Agent platform with autopilot capabilities | Node.js, Express |
 | [🔐 octrashield-dex](https://github.com/0xgetz/octrashield-dex) | Privacy DEX powered by Homomorphic Encryption | TypeScript, Rust |
-| [⚡ UnionV3](https://github.com/0xgetz/UnionV3) | Union V3 testnet auto transaction bot | Python |
-| [🔄 inj-swap](https://github.com/0xgetz/inj-swap) | Automated swap tooling for Injective testnet | Python |
 
 ---
 
