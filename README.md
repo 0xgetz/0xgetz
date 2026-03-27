@@ -120,16 +120,6 @@ const eyren: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xgetz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="170" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=0xgetz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" />
-
-<br/><br/>
-
 ![Snake animation](https://raw.githubusercontent.com/0xgetz/0xgetz/output/github-contribution-grid-snake-dark.svg)
 
 </div>
