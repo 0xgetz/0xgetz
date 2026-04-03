@@ -65,3 +65,22 @@ const eyren: Developer = {
 </div>
 
 ---
+
+## 🚀 Repositories
+
+| Repository | Description | Language | ⭐ | 🍴 | Updated |
+|:---|:---|:---:|:---:|:---:|:---:|
+| [**0xgetz**](https://github.com/0xgetz/0xgetz) | ✨ GitHub Profile README | - | 0 | 0 | 2026-04-03 |
+| [**nexusforge**](https://github.com/0xgetz/nexusforge) | Open-source AI dev platform: AI Coding Assistant, Security Scanner, Self-Healing Engine | TypeScript | 0 | 0 | 2026-04-03 |
+| [**obscura-lang**](https://github.com/0xgetz/obscura-lang) | Programming language with Indonesian syntax — Lexer, Parser, Interpreter, REPL, OOP | Python | 0 | 0 | 2026-04-03 |
+| [**octrashield-dex**](https://github.com/0xgetz/octrashield-dex) | 🔐 Privacy-preserving DEX with Homomorphic Encryption, Encrypted AMM, MEV Protection | TypeScript | 0 | 0 | 2026-04-02 |
+| [**nebula-code**](https://github.com/0xgetz/nebula-code) | AI coding agent with federated learning, skill marketplace, multi-agent orchestration | Rust | 0 | 0 | 2026-04-02 |
+| [**zk-fuzzer-ultra**](https://github.com/0xgetz/zk-fuzzer-ultra) | Ultra-modern ZK Circuit Fuzzer with LLM-guided mutation & TCCT-based bug detection | Rust | 0 | 0 | 2026-03-31 |
+| [**allowScanner**](https://github.com/0xgetz/allowScanner) | 🔍 Web security scanner for smart contract allowances | Python | 0 | 0 | 2026-03-28 |
+| [**taceo-private-voting**](https://github.com/0xgetz/taceo-private-voting) | TACEO Private Voting dApp | TypeScript | 0 | 0 | 2026-03-27 |
+| [**octra-ai-agent**](https://github.com/0xgetz/octra-ai-agent) | 🤖 Modern AI Agent platform with autopilot — OpenAI & Claude support | JavaScript | 0 | 0 | 2026-03-27 |
+| [**webcli**](https://github.com/0xgetz/webcli) | Lightweight web client for the octra network | C++ | 0 | 0 | 2026-03-04 |
+| [**co-snarks**](https://github.com/0xgetz/co-snarks) | Tooling for collaborative SNARKs for Circom & Noir circuits | Rust | 0 | 0 | 2026-01-04 |
+| [**o**](https://github.com/0xgetz/o) | — | Python | 0 | 0 | 2025-12-19 |
+
+---
