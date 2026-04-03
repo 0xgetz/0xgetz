@@ -66,72 +66,10 @@ const eyren: Developer = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Latest Repositories
 
-<!-- TODO: This section will be replaced by an auto-generated 'Latest Repositories' section in the next step -->
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 octrashield-dex</h3>
-      <p align="center">
-        Privacy-preserving DEX powered by Homomorphic Encryption. Encrypted AMM with MEV protection.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=orange" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/0xgetz/octrashield-dex"><strong>Explore →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 octra-ai-agent</h3>
-      <p align="center">
-        Modern AI Agent platform with autopilot capabilities. OpenAI & Claude support.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/0xgetz/octra-ai-agent"><strong>Explore →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗳️ taceo-private-voting</h3>
-      <p align="center">
-        TACEO Private Voting dApp -- confidential on-chain governance with zero-knowledge proofs.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zero_Knowledge-000000?style=flat-square&logo=web3&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/0xgetz/taceo-private-voting"><strong>Explore →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 allowScanner</h3>
-      <p align="center">
-        Web security scanner for smart contract token allowances. Protect your wallets from infinite approvals.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Web3-000000?style=flat-square&logo=web3&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/0xgetz/allowScanner"><strong>Explore →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
+<!-- REPOS_START -->
+<!-- REPOS_END -->
 
 ---
 

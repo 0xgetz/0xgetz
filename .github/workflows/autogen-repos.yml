@@ -1,0 +1,78 @@
+name: Auto-Generate Latest Repositories
+
+on:
+  schedule:
+    # Run daily at 17:00 UTC (00:00 WIB / 01:00 WITA)
+    - cron: "0 17 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch: null
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest repositories
+        run: |
+          mkdir -p tmp
+          RESPONSE=$(curl -sf "https://api.github.com/users/0xgetz/repos?sort=updated&per_page=10")
+          echo "$RESPONSE" > tmp/repos.json
+
+          # Generate markdown table
+          TABLE="<div align=\"center\">\n\n"
+          TABLE+="| Repository | Description | Language | Stars | Updated |\n"
+          TABLE+="|:---|:---|:---:|:---:|:---:\n"
+
+          REPOS=$(echo "$RESPONSE" | jq -c '.[]')
+          while IFS= read -r repo; do
+            NAME=$(echo "$repo" | jq -r '.name')
+            DESC=$(echo "$repo" | jq -r '.description // "No description"')
+            LANG=$(echo "$repo" | jq -r '.language // "N/A"')
+            STARS=$(echo "$repo" | jq -r '.stargazers_count')
+            UPDATED=$(echo "$repo" | jq -r '.pushed_at' | cut -dT -f1)
+            URL=$(echo "$repo" | jq -r '.html_url')
+
+            # Only show non-fork repos, skip this profile repo
+            if [ "$(echo "$repo" | jq -r '.fork')" = "false" ] && [ "$NAME" != "0xgetz" ]; then
+              TABLE+="| **[$NAME]($URL)** | $DESC | $LANG | ⭐ $STARS | $UPDATED |\n"
+            fi
+          done <<< "$REPOS"
+
+          TABLE+="\n</div>"
+          echo -e "$TABLE" > tmp/repos_table.md
+
+      - name: Update README
+        run: |
+          REPO_CONTENT=$(cat tmp/repos_table.md)
+
+          # Check if markers exist in README
+          if ! grep -q '<!-- REPOS_START -->' README.md; then
+            echo 'Error: REPOS_START marker not found in README.md'
+            exit 1
+          fi
+          if ! grep -q '<!-- REPOS_END -->' README.md; then
+            echo 'Error: REPOS_END marker not found in README.md'
+            exit 1
+          fi
+
+          # Replace content between markers
+          sed -i "/<!-- REPOS_START -->/,/<!-- REPOS_END -->/{
+            /<!-- REPOS_START -->/{
+              p
+              r /dev/stdin
+            }
+            /<!-- REPOS_END -->/!d
+          }" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "ci: update latest repositories section [auto-generated]"
+          file_pattern: README.md
+          skip_dirty_check: true
