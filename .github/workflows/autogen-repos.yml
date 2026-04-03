@@ -1,12 +1,30 @@
 name: Auto-Generate Latest Repositories
 
+# To trigger this workflow from another repository (e.g., after creating a new repo),
+# use the following curl command with a Personal Access Token (PAT) that has `repo` scope:
+#
+#   curl -X POST \
+#     https://api.github.com/repos/0xgetz/0xgetz/dispatches \
+#     -H "Accept: application/vnd.github+json" \
+#     -H "Authorization: Bearer YOUR_PAT_TOKEN" \
+#     -H "X-GitHub-Api-Version: 2022-11-28" \
+#     -d '{"event_type": "update-profile-readme"}'
+#
+# You can also pass custom data:
+#   -d '{"event_type": "update-profile-readme", "client_payload": {"triggered_by": "my-new-repo"}}'
+#
+# Add this as a post-repo-creation hook or manual step in your other repos' workflows.
+
 on:
   schedule:
-    # Run daily at 17:00 UTC (00:00 WIB)
-    - cron: "0 17 * * *"
+    # Run every 6 hours (at minute 0)
+    - cron: "0 */6 * * *"
   push:
     branches: [main]
   workflow_dispatch: null
+  repository_dispatch:
+    types: [update-profile-readme]
+  workflow_call: null
 
 permissions:
   contents: write
