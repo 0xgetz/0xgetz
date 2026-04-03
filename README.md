@@ -40,7 +40,7 @@
     <td>
       <div align="center">
         <h4>👥 Followers</h4>
-        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">—</h1>
+        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">5</h1>
         <p style="color: #8b949e; margin: 0;">Check Profile</p>
       </div>
     </td>
