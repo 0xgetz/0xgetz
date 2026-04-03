@@ -60,7 +60,23 @@
 
 **🔥 Most Used Languages:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&theme=dark&hide_border=true&title_color=00D9FF&layout=compact&langs_count=6&card_width=320)
+<table>
+<tr>
+<td>
+
+**Top Languages**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-60.8%25-orange?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a1a" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C++-16.6%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a" alt="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-9.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-7.7%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-2.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -81,40 +97,49 @@
 
 ---
 
-## 🎯 Currently Working On
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-- 🔐 **Privacy-Preserving DEX** - Building encrypted AMM with Homomorphic Encryption
-- 🤖 **AI Agent Platform** - Federated learning for autonomous coding agents
-- 🦀 **ZK Circuit Fuzzer** - LLM-guided fuzzing for zero-knowledge circuits
-- 🇮🇩 **Obscura Language** - Indonesian programming language for education
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| Certified Blockchain Developer | Ethereum Foundation | 2024 |
+| Advanced Cryptography | MIT OpenCourseWare | 2024 |
+| Zero-Knowledge Proofs Specialist | ZK Academy | 2024 |
 
 </div>
 
 ---
 
-## 📈 Activity
+## 📝 Recent Blog Posts
 
-<div align="center">
-
-![GitHub Activity Graph](https://ghchart.rshah.org/00D9FF/0xgetz)
-
-</div>
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Zero-Knowledge Proofs: A Practical Guide](#) - *Coming Soon*
+- [Building Privacy-Preserving Smart Contracts](#) - *Coming Soon*
+- [The Future of AI in Web3 Development](#) - *Coming Soon*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
+## 🤝 Contributing
+
+I'm always open to collaborating on innovative Web3 and AI projects. Feel free to reach out or contribute to any of my repositories!
+
 <div align="center">
 
-### 📫 Let's Connect
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xgetz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgetz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xgetz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eyren)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@eyren.dev)
 
-**Open for collaborations in Web3, Privacy Tech, and AI!**
+</div>
 
 ---
 
-⌨️ with ❤️ by **Eyren** | 🇮🇩 Based in Indonesia
+<div align="center">
 
-<!-- Made with modern GitHub README best practices -->
+**Made with ❤️ and lots of ☕**
+
+*Last updated: 2026*
+
+</div>
