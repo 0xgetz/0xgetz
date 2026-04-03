@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Eyren+%F0%9F%91%8B;Web3+%7C+Privacy+Tech+%7C+ZK+Proofs;Building+the+Decentralized+Future" alt="Typing SVG" />
+<!-- Animated Header - Replaced herokuapp typing SVG with shields.io badges -->
+![Hey, I'm Eyren 👋](https://img.shields.io/badge/Hey%2C%20I%27m%20Eyren%20👋-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Web3 | Privacy Tech | ZK Proofs](https://img.shields.io/badge/Web3%20%7C%20Privacy%20Tech%20%7C%20ZK%20Proofs-00D9FF?style=for-the-badge&logo=web3&logoColor=white)
+![Building the Decentralized Future](https://img.shields.io/badge/Building%20the%20Decentralized%20Future-00D9FF?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
 <br/>
 
@@ -124,42 +126,88 @@ const eyren: Developer = {
 
 ## 🛠️ Tech Arsenal
 
+### 💻 Languages & Frameworks
+
 <div align="center">
 
-| Category | Technologies |
-|:---:|:---|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=orange) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| **Web3** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFC107?style=flat-square&logo=hardhat&logoColor=black) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=ethereum&logoColor=white) ![Circom](https://img.shields.io/badge/Circom-4E2BFF?style=flat-square) ![Noir](https://img.shields.io/badge/Noir-000000?style=flat-square) |
-| **Tools** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+</div>
+
+### 🔐 Web3 & Privacy Tech
+
+<div align="center">
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C9CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-3C3C3D?style=for-the-badge&logo=hardhat&logoColor=white)
+
+</div>
+
+### 🧠 AI & Machine Learning
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+### 🔧 Tools & Platforms
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Repositories
+## 📚 Recent Projects
 
-| Repository | Description | Language | ⭐ | 🍴 | Updated |
-|:---|:---|:---:|:---:|:---:|:---:|
-| [**0xgetz**](https://github.com/0xgetz/0xgetz) | ✨ GitHub Profile README | - | 0 | 0 | 2026-04-03 |
-| [**nexusforge**](https://github.com/0xgetz/nexusforge) | Open-source AI dev platform: AI Coding Assistant, Security Scanner, Self-Healing Engine | TypeScript | 0 | 0 | 2026-04-03 |
-| [**obscura-lang**](https://github.com/0xgetz/obscura-lang) | Programming language with Indonesian syntax - Lexer, Parser, Interpreter, REPL, and OOP | Python | 0 | 0 | 2026-04-03 |
-| [**octrashield-dex**](https://github.com/0xgetz/octrashield-dex) | 🔐 Privacy-preserving DEX powered by Homomorphic Encryption | TypeScript | 0 | 0 | 2026-04-02 |
-| [**nebula-code**](https://github.com/0xgetz/nebula-code) | AI coding agent with federated learning, skill marketplace, and multi-agent orchestration | Rust | 0 | 0 | 2026-04-02 |
-| [**zk-fuzzer-ultra**](https://github.com/0xgetz/zk-fuzzer-ultra) | Ultra-modern ZK Circuit Fuzzer with LLM-guided mutation | Rust | 0 | 0 | 2026-03-31 |
-| [**octra-ai-agent**](https://github.com/0xgetz/octra-ai-agent) | 🤖 Modern AI Agent platform with autopilot capabilities | JavaScript | 0 | 0 | 2026-03-27 |
-| [**allowScanner**](https://github.com/0xgetz/allowScanner) | 🔍 Web security scanner for smart contract allowances | Python | 0 | 0 | 2026-03-28 |
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Privacy DEX** | Homomorphic Encryption DEX | Rust, Circom, Ethereum |
+| **AI Agent Platform** | Autopilot trading agent | Python, ML, Web3 |
+| **TACEO dApp** | Private voting system | Noir, Aztec, Ethereum |
+
+</div>
+
+---
+
+## 📖 Currently Learning
+
+- 🔹 **Zero-Knowledge Proofs** - ZK-SNARKs, ZK-STARKs
+- 🔹 **Homomorphic Encryption** - TFHE, CKKS schemes
+- 🔹 **Rust** - Systems programming for blockchain
+- 🔹 **Circom/Noir** - ZK circuit languages
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xgetz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgetz)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0xgetz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l0yvl44@zenvex.edu.pl)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📫 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xgetz)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgetz)
-
----
-
-**Thanks for visiting!** 🚀
+⌨️ with ❤️ by **Eyren** · 🇮🇩
 
 </div>
