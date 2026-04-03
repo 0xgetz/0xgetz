@@ -10,6 +10,23 @@
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xgetz)
 [![GitHub followers](https://img.shields.io/github/followers/0xgetz?style=for-the-badge&label=Followers&color=0D1117)](https://github.com/0xgetz?tab=followers)
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=0xgetz&theme=dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&theme=dark&hide_border=true&title_color=00D9FF&layout=compact) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xgetz&theme=dark&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF) |
+|---|---|---|
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgetz&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
@@ -27,7 +44,7 @@ const eyren: Developer = {
     "AI Agent platform with autopilot capabilities",
     "TACEO Private Voting dApp",
   ],
-  focusAreas: ["Zero-Knowledge Proofs", "Homomorphic Encryption", "AI × Blockchain"],
+  focusAreas: ["Zero-Knowledge Proofs", "Homomorphic Encryption", "AI x Blockchain"],
   learning: ["Rust", "Circom", "Noir", "FHE"],
   openToCollaborate: true,
 };
@@ -50,6 +67,8 @@ const eyren: Developer = {
 ---
 
 ## 🚀 Featured Projects
+
+<!-- TODO: This section will be replaced by an auto-generated 'Latest Repositories' section in the next step -->
 
 <div align="center">
 
@@ -86,11 +105,11 @@ const eyren: Developer = {
     <td width="50%" valign="top">
       <h3 align="center">🗳️ taceo-private-voting</h3>
       <p align="center">
-        TACEO Private Voting dApp — confidential on-chain governance.
+        TACEO Private Voting dApp -- confidential on-chain governance with zero-knowledge proofs.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zero_Knowledge-4E2BFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Knowledge-000000?style=flat-square&logo=web3&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/0xgetz/taceo-private-voting"><strong>Explore →</strong></a>
@@ -99,11 +118,11 @@ const eyren: Developer = {
     <td width="50%" valign="top">
       <h3 align="center">🔍 allowScanner</h3>
       <p align="center">
-        Web security scanner for smart contract allowances. Protect your wallets.
+        Web security scanner for smart contract token allowances. Protect your wallets from infinite approvals.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Web3-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web3-000000?style=flat-square&logo=web3&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/0xgetz/allowScanner"><strong>Explore →</strong></a>
@@ -116,11 +135,11 @@ const eyren: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/0xgetz/0xgetz/output/github-contribution-grid-snake-dark.svg)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0xgetz&theme=darkhub&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -128,8 +147,14 @@ const eyren: Developer = {
 
 <div align="center">
 
+### 🐍 Snake Animation
+
+<img src="https://github.com/0xgetz/0xgetz/output/branch/contributions/grid-snake.svg?anim=true" alt="Snake animation" />
+
+---
+
 *"Building at the intersection of privacy and decentralization"*
 
-<img src="https://komarev.com/ghpvc/?username=0xgetz&color=00D9FF&style=flat-square&label=Profile+Views" />
+![Profile views](https://komarev.com/ghpvc/?username=0xgetz&label=profile+views&color=00D9FF&style=flat-square)
 
 </div>
