@@ -1,16 +1,50 @@
+<!-- ⚠️ AUTO-GENERATED - Do not manually edit -->
+
 <div align="center">
 
-<!-- Animated Header - Replaced herokuapp typing SVG with shields.io badges -->
-![Hey, I'm Eyren 👋](https://img.shields.io/badge/Hey%2C%20I%27m%20Eyren%20👋-00D9FF?style=for-the-badge&logo=github&logoColor=white)
-![Web3 | Privacy Tech | ZK Proofs](https://img.shields.io/badge/Web3%20%7C%20Privacy%20Tech%20%7C%20ZK%20Proofs-00D9FF?style=for-the-badge&logo=web3&logoColor=white)
-![Building the Decentralized Future](https://img.shields.io/badge/Building%20the%20Decentralized%20Future-00D9FF?style=for-the-badge&logo=blockchain.com&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Eyren+%F0%9F%91%8B;Web3+Developer+%26+Privacy+Researcher;AI+%C3%97+Blockchain+%C3%97+Cryptography;Building+the+Decentralized+Future" alt="Typing Animation" />
 
 <br/>
 
-### 🔐 Web3 Developer & Privacy Researcher · Indonesia 🇮🇩
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xgetz?style=for-the-badge&logo=x&color=1DA1F2&logoColor=white)](https://twitter.com/0xgetz)
+[![GitHub Followers](https://img.shields.io/github/followers/0xgetz?style=for-the-badge&logo=github&color=24292f&logoColor=white)](https://github.com/0xgetz)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=0xgetz%2F0xgetz&countColor=%2300D9FF&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=0xgetz%2F0xgetz)
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xgetz)
-[![GitHub followers](https://img.shields.io/github/followers/0xgetz?style=for-the-badge&label=Followers&color=0D1117)](https://github.com/0xgetz?tab=followers)
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks:**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Web3 & Blockchain:**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-3C3C3D?style=for-the-badge&logo=hardhat&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
+
+**Privacy & Crypto:**
+
+![Zero Knowledge Proofs](https://img.shields.io/badge/ZK--Proofs-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
+![Homomorphic Encryption](https://img.shields.io/badge/Homomorphic+Encryption-FFE66D?style=for-the-badge&logo=github&logoColor=black)
+
+**AI & Tools:**
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-9333EA?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-10B981?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -20,194 +54,67 @@
 
 <div align="center">
 
-<!-- Static Stats Cards - Replaced broken github-readme-stats.vercel.app links -->
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <h4>📦 Total Repos</h4>
-        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">12</h1>
-        <p style="color: #8b949e; margin: 0;">Public Repositories</p>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h4>⭐ Total Stars</h4>
-        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">0</h1>
-        <p style="color: #8b949e; margin: 0;">Across All Repos</p>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h4>👥 Followers</h4>
-        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">5</h1>
-        <p style="color: #8b949e; margin: 0;">Check Profile</p>
-      </div>
-    </td>
-  </tr>
-</table>
+| 📦 Total Repos | ⭐ Total Stars | 👥 Followers | 📈 Following |
+|:--------------:|:---------------:|:------------:|:------------:|
+|       12       |       0        |      5       |      6       |
 
-<br/>
+**🔥 Most Used Languages:**
 
-<!-- Top Languages Card -->
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; width: 90%; max-width: 600px;">
-  <h3 style="color: #00D9FF; margin-top: 0;">🏆 Top Languages</h3>
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
-        <span style="color: #3572A5;">🔹 Python</span>
-      </td>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">27.3%</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
-        <span style="color: #3178C6;">🔹 TypeScript</span>
-      </td>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">27.3%</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
-        <span style="color: #DEA584;">🔹 Rust</span>
-      </td>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">27.3%</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
-        <span style="color: #F7DF1E;">🔹 JavaScript</span>
-      </td>
-      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">9.1%</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 0;">
-        <span style="color: #F34B7D;">🔹 C++</span>
-      </td>
-      <td style="padding: 8px 0; text-align: right; color: #8b949e;">9.1%</td>
-    </tr>
-  </table>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&theme=dark&hide_border=true&title_color=00D9FF&layout=compact&langs_count=6&card_width=320)
 
 </div>
 
 ---
 
-<!-- Activity Graph Section - Removed broken herokuapp link -->
-<!-- Note: Activity graph requires external service. Consider using GitHub Contributions image instead -->
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 📈 Contribution Activity
-
-![GitHub Contributions](https://ghchart.rshah.org/00D9FF/0xgetz)
-
-*Alternative contribution chart using ghchart.rshah.org*
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[⚡ nexusforge](https://github.com/0xgetz/nexusforge)** | AI development platform with Coding Assistant, Security Scanner & Self-Healing Engine | TypeScript, AI, Multi-agent |
+| **[🔒 octrashield-dex](https://github.com/0xgetz/octrashield-dex)** | Privacy-preserving DEX with Homomorphic Encryption & MEV Protection | TypeScript, Rust, ZK |
+| **[🤖 nebula-code](https://github.com/0xgetz/nebula-code)** | AI coding agent with federated learning & multi-agent orchestration | Rust, AI Agents |
+| **[🐍 obscura-lang](https://github.com/0xgetz/obscura-lang)** | Programming language with Indonesian syntax - full compiler & REPL | Python, Compiler |
 
 </div>
 
 ---
 
-## 🧬 About Me
-
-```typescript
-const eyren: Developer = {
-  location: "Indonesia 🇮🇩",
-  role: "Web3 Developer & Privacy Researcher",
-  currentlyBuilding: [
-    "Privacy-preserving DEX (Homomorphic Encryption)",
-    "AI Agent platform with autopilot capabilities",
-    "TACEO Private Voting dApp",
-  ],
-  focusAreas: ["Zero-Knowledge Proofs", "Homomorphic Encryption", "AI x Blockchain"],
-  learning: ["Rust", "Circom", "Noir", "FHE"],
-  openToCollaborate: true,
-};
-```
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Languages & Frameworks
+## 🎯 Currently Working On
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-</div>
-
-### 🔐 Web3 & Privacy Tech
-
-<div align="center">
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C9CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-3C3C3D?style=for-the-badge&logo=hardhat&logoColor=white)
-
-</div>
-
-### 🧠 AI & Machine Learning
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Platforms
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🔐 **Privacy-Preserving DEX** - Building encrypted AMM with Homomorphic Encryption
+- 🤖 **AI Agent Platform** - Federated learning for autonomous coding agents
+- 🦀 **ZK Circuit Fuzzer** - LLM-guided fuzzing for zero-knowledge circuits
+- 🇮🇩 **Obscura Language** - Indonesian programming language for education
 
 </div>
 
 ---
 
-## 📚 Recent Projects
+## 📈 Activity
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Privacy DEX** | Homomorphic Encryption DEX | Rust, Circom, Ethereum |
-| **AI Agent Platform** | Autopilot trading agent | Python, ML, Web3 |
-| **TACEO dApp** | Private voting system | Noir, Aztec, Ethereum |
+![GitHub Activity Graph](https://ghchart.rshah.org/00D9FF/0xgetz)
 
 </div>
 
 ---
 
-## 📖 Currently Learning
-
-- 🔹 **Zero-Knowledge Proofs** - ZK-SNARKs, ZK-STARKs
-- 🔹 **Homomorphic Encryption** - TFHE, CKKS schemes
-- 🔹 **Rust** - Systems programming for blockchain
-- 🔹 **Circom/Noir** - ZK circuit languages
-
----
-
-## 📫 Connect With Me
-
 <div align="center">
+
+### 📫 Let's Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xgetz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgetz)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0xgetz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l0yvl44@zenvex.edu.pl)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgetz)
 
-</div>
+**Open for collaborations in Web3, Privacy Tech, and AI!**
 
 ---
 
-<div align="center">
+⌨️ with ❤️ by **Eyren** | 🇮🇩 Based in Indonesia
 
-⌨️ with ❤️ by **Eyren** · 🇮🇩
-
-</div>
+<!-- Made with modern GitHub README best practices -->
