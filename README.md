@@ -18,16 +18,86 @@
 
 <div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=0xgetz&theme=dark&hide_border=true&title_color=00D9FF&icon_color=00D9FF&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&theme=dark&hide_border=true&title_color=00D9FF&layout=compact) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xgetz&theme=dark&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF) |
-|---|---|---|
+<!-- Static Stats Cards - Replaced broken github-readme-stats.vercel.app links -->
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <h4>📦 Total Repos</h4>
+        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">12</h1>
+        <p style="color: #8b949e; margin: 0;">Public Repositories</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <h4>⭐ Total Stars</h4>
+        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">0</h1>
+        <p style="color: #8b949e; margin: 0;">Across All Repos</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <h4>👥 Followers</h4>
+        <h1 style="font-size: 48px; margin: 10px 0; color: #00D9FF;">—</h1>
+        <p style="color: #8b949e; margin: 0;">Check Profile</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Top Languages Card -->
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; width: 90%; max-width: 600px;">
+  <h3 style="color: #00D9FF; margin-top: 0;">🏆 Top Languages</h3>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
+        <span style="color: #3572A5;">🔹 Python</span>
+      </td>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">27.3%</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
+        <span style="color: #3178C6;">🔹 TypeScript</span>
+      </td>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">27.3%</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
+        <span style="color: #DEA584;">🔹 Rust</span>
+      </td>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">27.3%</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d;">
+        <span style="color: #F7DF1E;">🔹 JavaScript</span>
+      </td>
+      <td style="padding: 8px 0; border-bottom: 1px solid #21262d; text-align: right; color: #8b949e;">9.1%</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 0;">
+        <span style="color: #F34B7D;">🔹 C++</span>
+      </td>
+      <td style="padding: 8px 0; text-align: right; color: #8b949e;">9.1%</td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
 ---
 
+<!-- Activity Graph Section - Removed broken herokuapp link -->
+<!-- Note: Activity graph requires external service. Consider using GitHub Contributions image instead -->
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgetz&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+### 📈 Contribution Activity
+
+![GitHub Contributions](https://ghchart.rshah.org/00D9FF/0xgetz)
+
+*Alternative contribution chart using ghchart.rshah.org*
 
 </div>
 
@@ -72,15 +142,24 @@ const eyren: Developer = {
 |:---|:---|:---:|:---:|:---:|:---:|
 | [**0xgetz**](https://github.com/0xgetz/0xgetz) | ✨ GitHub Profile README | - | 0 | 0 | 2026-04-03 |
 | [**nexusforge**](https://github.com/0xgetz/nexusforge) | Open-source AI dev platform: AI Coding Assistant, Security Scanner, Self-Healing Engine | TypeScript | 0 | 0 | 2026-04-03 |
-| [**obscura-lang**](https://github.com/0xgetz/obscura-lang) | Programming language with Indonesian syntax — Lexer, Parser, Interpreter, REPL, OOP | Python | 0 | 0 | 2026-04-03 |
-| [**octrashield-dex**](https://github.com/0xgetz/octrashield-dex) | 🔐 Privacy-preserving DEX with Homomorphic Encryption, Encrypted AMM, MEV Protection | TypeScript | 0 | 0 | 2026-04-02 |
-| [**nebula-code**](https://github.com/0xgetz/nebula-code) | AI coding agent with federated learning, skill marketplace, multi-agent orchestration | Rust | 0 | 0 | 2026-04-02 |
-| [**zk-fuzzer-ultra**](https://github.com/0xgetz/zk-fuzzer-ultra) | Ultra-modern ZK Circuit Fuzzer with LLM-guided mutation & TCCT-based bug detection | Rust | 0 | 0 | 2026-03-31 |
+| [**obscura-lang**](https://github.com/0xgetz/obscura-lang) | Programming language with Indonesian syntax - Lexer, Parser, Interpreter, REPL, and OOP | Python | 0 | 0 | 2026-04-03 |
+| [**octrashield-dex**](https://github.com/0xgetz/octrashield-dex) | 🔐 Privacy-preserving DEX powered by Homomorphic Encryption | TypeScript | 0 | 0 | 2026-04-02 |
+| [**nebula-code**](https://github.com/0xgetz/nebula-code) | AI coding agent with federated learning, skill marketplace, and multi-agent orchestration | Rust | 0 | 0 | 2026-04-02 |
+| [**zk-fuzzer-ultra**](https://github.com/0xgetz/zk-fuzzer-ultra) | Ultra-modern ZK Circuit Fuzzer with LLM-guided mutation | Rust | 0 | 0 | 2026-03-31 |
+| [**octra-ai-agent**](https://github.com/0xgetz/octra-ai-agent) | 🤖 Modern AI Agent platform with autopilot capabilities | JavaScript | 0 | 0 | 2026-03-27 |
 | [**allowScanner**](https://github.com/0xgetz/allowScanner) | 🔍 Web security scanner for smart contract allowances | Python | 0 | 0 | 2026-03-28 |
-| [**taceo-private-voting**](https://github.com/0xgetz/taceo-private-voting) | TACEO Private Voting dApp | TypeScript | 0 | 0 | 2026-03-27 |
-| [**octra-ai-agent**](https://github.com/0xgetz/octra-ai-agent) | 🤖 Modern AI Agent platform with autopilot — OpenAI & Claude support | JavaScript | 0 | 0 | 2026-03-27 |
-| [**webcli**](https://github.com/0xgetz/webcli) | Lightweight web client for the octra network | C++ | 0 | 0 | 2026-03-04 |
-| [**co-snarks**](https://github.com/0xgetz/co-snarks) | Tooling for collaborative SNARKs for Circom & Noir circuits | Rust | 0 | 0 | 2026-01-04 |
-| [**o**](https://github.com/0xgetz/o) | — | Python | 0 | 0 | 2025-12-19 |
 
 ---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0xgetz)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xgetz)
+
+---
+
+**Thanks for visiting!** 🚀
+
+</div>
