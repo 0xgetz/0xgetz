@@ -2,7 +2,7 @@ name: Auto-Generate Latest Repositories
 
 on:
   schedule:
-    # Run daily at 17:00 UTC (00:00 WIB / 01:00 WITA)
+    # Run daily at 17:00 UTC (00:00 WIB)
     - cron: "0 17 * * *"
   push:
     branches: [main]
@@ -18,61 +18,85 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch latest repositories
+      - name: Generate repos section
         run: |
-          mkdir -p tmp
-          RESPONSE=$(curl -sf "https://api.github.com/users/0xgetz/repos?sort=updated&per_page=10")
-          echo "$RESPONSE" > tmp/repos.json
+          python3 << 'PYEOF'
+          import json, subprocess, sys
 
-          # Generate markdown table
-          TABLE="<div align=\"center\">\n\n"
-          TABLE+="| Repository | Description | Language | Stars | Updated |\n"
-          TABLE+="|:---|:---|:---:|:---:|:---:\n"
+          # Fetch repos from GitHub API
+          result = subprocess.run(
+              ["curl", "-sf", "https://api.github.com/users/0xgetz/repos?sort=updated&per_page=10"],
+              capture_output=True, text=True
+          )
+          if result.returncode != 0:
+              print(f"Error fetching repos: {result.stderr}")
+              sys.exit(1)
 
-          REPOS=$(echo "$RESPONSE" | jq -c '.[]')
-          while IFS= read -r repo; do
-            NAME=$(echo "$repo" | jq -r '.name')
-            DESC=$(echo "$repo" | jq -r '.description // "No description"')
-            LANG=$(echo "$repo" | jq -r '.language // "N/A"')
-            STARS=$(echo "$repo" | jq -r '.stargazers_count')
-            UPDATED=$(echo "$repo" | jq -r '.pushed_at' | cut -dT -f1)
-            URL=$(echo "$repo" | jq -r '.html_url')
+          repos = json.loads(result.stdout)
 
-            # Only show non-fork repos, skip this profile repo
-            if [ "$(echo "$repo" | jq -r '.fork')" = "false" ] && [ "$NAME" != "0xgetz" ]; then
-              TABLE+="| **[$NAME]($URL)** | $DESC | $LANG | ⭐ $STARS | $UPDATED |\n"
-            fi
-          done <<< "$REPOS"
+          lines = []
+          lines.append("<div align=\"center\">")
+          lines.append("")
+          lines.append("| Repository | Description | Language | Stars | Updated |")
+          lines.append("|:---|:---|:---:|:---:|:---:|")
 
-          TABLE+="\n</div>"
-          echo -e "$TABLE" > tmp/repos_table.md
+          for repo in repos:
+              # Skip forks and the profile repo itself
+              if repo.get("fork", False):
+                  continue
+              if repo["name"] == "0xgetz":
+                  continue
 
-      - name: Update README
-        run: |
-          REPO_CONTENT=$(cat tmp/repos_table.md)
+              name = repo["name"]
+              desc = repo.get("description") or "No description"
+              lang = repo.get("language") or "N/A"
+              stars = repo["stargazers_count"]
+              updated = repo.get("pushed_at", "")[:10]
+              url = repo["html_url"]
 
-          # Check if markers exist in README
-          if ! grep -q '<!-- REPOS_START -->' README.md; then
-            echo 'Error: REPOS_START marker not found in README.md'
-            exit 1
-          fi
-          if ! grep -q '<!-- REPOS_END -->' README.md; then
-            echo 'Error: REPOS_END marker not found in README.md'
-            exit 1
-          fi
+              lines.append(f"| **[{name}]({url})** | {desc} | {lang} | {stars} | {updated} |")
 
-          # Replace content between markers
-          sed -i "/<!-- REPOS_START -->/,/<!-- REPOS_END -->/{
-            /<!-- REPOS_START -->/{
-              p
-              r /dev/stdin
-            }
-            /<!-- REPOS_END -->/!d
-          }" README.md
+          lines.append("")
+          lines.append("</div>")
+
+          content = "\n".join(lines)
+
+          # Read current README
+          with open("README.md", "r") as f:
+              readme = f.read()
+
+          # Check markers exist
+          if "<!-- REPOS_START -->" not in readme:
+              print("Error: REPOS_START marker not found")
+              sys.exit(1)
+          if "<!-- REPOS_END -->" not in readme:
+              print("Error: REPOS_END marker not found")
+              sys.exit(1)
+
+          # Replace between markers
+          new_readme = readme.replace(
+              "<!-- REPOS_START -->\n<!-- REPOS_END -->",
+              f"<!-- REPOS_START -->\n\n{content}\n\n<!-- REPOS_END -->"
+          )
+
+          # Also handle the case where content already exists
+          import re
+          new_readme = re.sub(
+              r"<!-- REPOS_START -->.*?<!-- REPOS_END -->",
+              f"<!-- REPOS_START -->\n\n{content}\n\n<!-- REPOS_END -->",
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_readme)
+
+          print("README updated successfully")
+          print(f"Generated {len([r for r in repos if not r.get('fork') and r['name'] != '0xgetz'])} repo entries")
+          PYEOF
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "ci: update latest repositories section [auto-generated]"
           file_pattern: README.md
-          skip_dirty_check: true
