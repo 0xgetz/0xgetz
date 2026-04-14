@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0xgetz-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eyren-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/eyren)
 [![Email](https://img.shields.io/badge/Email-contact@eyren.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:contact@eyren.dev)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=0xgetz%2F0xgetz&countColor=%2300D9FF&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=0xgetz%2F0xgetz)
+[![Visitors](https://komarev.com/ghpvc/?username=0xgetz&color=00D9FF&style=for-the-badge&label=VISITORS)](https://github.com/0xgetz)
 
 </div>
 
@@ -52,13 +52,13 @@
 ### Web3 & Blockchain
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D0D0D)
-![Foundry](https://img.shields.io/badge/Foundry-F05032?style=for-the-badge&logo=foundry&logoColor=white&labelColor=0D0D0D)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=0D0D0D)
+![Foundry](https://img.shields.io/badge/Foundry-F05032?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D0D0D)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=0D0D0D)
 
 ### Privacy & Cryptography
 
-![ZK-Proofs](https://img.shields.io/badge/ZK--Proofs-FF6B6B?style=for-the-badge&logo=lock&logoColor=white&labelColor=0D0D0D)
-![Homomorphic Encryption](https://img.shields.io/badge/Homomorphic_Enc-7B2FBE?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D0D0D)
+![ZK-Proofs](https://img.shields.io/badge/ZK--Proofs-FF6B6B?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=0D0D0D)
+![Homomorphic Encryption](https://img.shields.io/badge/Homomorphic_Enc-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D0D0D)
 ![Cryptography](https://img.shields.io/badge/Cryptography-4ECDC4?style=for-the-badge&logo=keybase&logoColor=white&labelColor=0D0D0D)
 
 ### AI & Tooling
@@ -76,14 +76,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://stats.hyochan.dev/api/github-stats?login=0xgetz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=7B2FBE&text_color=AAAAAA&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://stats.hyochan.dev/api/github-stats-lang?login=0xgetz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=AAAAAA&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xgetz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=7B2FBE&text_color=AAAAAA&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=AAAAAA&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgetz&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
+<img src="https://streak-stats.demolab.com/?user=0xgetz&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
 
 </div>
 
