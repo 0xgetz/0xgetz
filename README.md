@@ -56,7 +56,7 @@
 
 | 📦 Total Repos | ⭐ Total Stars | 👥 Followers | 📈 Following |
 |:--------------:|:---------------:|:------------:|:------------:|
-|       12       |       0        |      5       |      6       |
+|       13       |       0        |      6       |      6       |
 
 **🔥 Most Used Languages:**
 
@@ -140,6 +140,6 @@ I'm always open to collaborating on innovative Web3 and AI projects. Feel free t
 
 **Made with ❤️ and lots of ☕**
 
-*Last updated: 2026*
+*Last updated: April 2026*
 
 </div>
