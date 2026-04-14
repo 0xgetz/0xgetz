@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:7B2FBE&height=200&section=header&text=0xgetz&fontSize=80&fontColor=00D9FF&fontAlignY=35&desc=Eyren%20%7C%20Web3%20Dev%20%26%20Privacy%20Researcher&descAlignY=60&descSize=20&descColor=AAAAAA&animation=fadeIn" />
+
 
 </div>
 
@@ -24,11 +24,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  > whoami                                                            ║
-║  Eyren — Web3 Developer & Privacy Researcher                         ║
-║  Specializing in: ZK Proofs · Homomorphic Encryption · AI/ML        ║
-║  Languages: Rust · Solidity · TypeScript · Python · C++             ║
-║  Mission: Decentralized. Private. Unstoppable.                       ║
+║  > whoami                                                                         ║
+║  Eyren — Web3 Developer & Privacy Researcher                                      ║
+║  Specializing in: ZK Proofs · Homomorphic Encryption · AI/ML                      ║
+║  Languages: Rust · Solidity · TypeScript · Python · C++                           ║
+║  Mission: Decentralized. Private. Unstoppable.                                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -76,8 +76,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xgetz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=7B2FBE&text_color=AAAAAA&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=AAAAAA&langs_count=6" />
 
 </div>
 
