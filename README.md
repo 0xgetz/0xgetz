@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:7B2FBE&height=200&section=header&text=0xgetz&fontSize=80&fontColor=00D9FF&fontAlignY=35&desc=Eyren%20%7C%20Web3%20Dev%20%26%20Privacy%20Researcher&descAlignY=60&descSize=20&descColor=AAAAAA&animation=fadeIn" />
+
 
 </div>
 
@@ -14,8 +14,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40_0xgetz-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D)](https://twitter.com/0xgetz)
 [![GitHub](https://img.shields.io/badge/GitHub-0xgetz-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eyren-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/eyren)
-[![Email](https://img.shields.io/badge/Email-contact@eyren.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:contact@eyren.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-eyren-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://t.me/eyrenx)
+[![Email](https://img.shields.io/badge/Email-contact@eyren.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:eyrenlans@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=0xgetz&color=00D9FF&style=for-the-badge&label=VISITORS)](https://github.com/0xgetz)
 
 </div>
@@ -78,8 +78,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xgetz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=7B2FBE&text_color=AAAAAA&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=AAAAAA&langs_count=6" />
+
 
 </div>
 
@@ -207,8 +206,8 @@ Autonomous · Multi-agent · On-chain execution
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D)](https://twitter.com/0xgetz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/eyren)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:contact@eyren.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://t.me/eyrenx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:eyrenlans@gmail.com)
 
 </div>
 
