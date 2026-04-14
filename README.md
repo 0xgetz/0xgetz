@@ -23,13 +23,15 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  > whoami                                                            ║
-║  Eyren — Web3 Developer & Privacy Researcher                         ║
-║  Specializing in: ZK Proofs · Homomorphic Encryption · AI/ML        ║
-║  Languages: Rust · Solidity · TypeScript · Python · C++             ║
-║  Mission: Decentralized. Private. Unstoppable.                       ║
-╚══════════════════════════════════════════════════════════════════════╝
+```
++----------------------------------------------------------------------+
+|  > whoami                                                            |
+|  Eyren -- Web3 Developer & Privacy Researcher                        |
+|  Specializing in: ZK Proofs · Homomorphic Encryption · AI/ML        |
+|  Languages: Rust · Solidity · TypeScript · Python · C++             |
+|  Mission: Decentralized. Private. Unstoppable.                       |
++----------------------------------------------------------------------+
+```
 ```
 
 <br/>
