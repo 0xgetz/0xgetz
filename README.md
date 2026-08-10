@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=%3E+Breaking+Privacy+Barriers+in+Web3_%3B%3E+ZK+Proofs+%7C+Homomorphic+Encryption_%3B%3E+Rust+%7C+Solidity+%7C+TypeScript_%3B%3E+Building+the+Cypherpunk+Future_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=760&lines=%3E+Building+AI+Agents+%26+Dev+Tooling_%3B%3E+Security+Tooling+%7C+Privacy+%7C+Web3_%3B%3E+Python+%7C+TypeScript+%7C+Rust+%7C+Kotlin_%3B%3E+Open+Source%2C+Bring+Your+Own+Key_" alt="Typing SVG" />
 
 </div>
 
@@ -19,10 +19,10 @@
 ```
 +----------------------------------------------------------------------+
 |  > whoami                                                            |
-|  Eyren -- Web3 Developer & Privacy Researcher (Indonesia)           |
-|  Specializing in: ZK Proofs · Homomorphic Encryption · AI/ML        |
-|  Languages: Rust · Solidity · TypeScript · Python · C++             |
-|  Mission: Decentralized. Private. Unstoppable.                       |
+|  Eyren -- Developer & Security Researcher (Indonesia)                |
+|  Focus:     AI agents · dev tooling · security · privacy · Web3      |
+|  Languages: Python · TypeScript · Rust · Kotlin · Solidity           |
+|  Ethos:     Open source. Self-hostable. Bring your own key.          |
 +----------------------------------------------------------------------+
 ```
 
@@ -36,27 +36,33 @@
 
 ### Languages
 
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black&labelColor=0D0D0D)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0D0D0D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0D0D)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D0D0D)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D0D0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0D0D)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black&labelColor=0D0D0D)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0D0D)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0D0D0D)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D0D0D)
 
-### Web3 & Cryptography
+### AI & Agents
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D0D0D)
-![Foundry](https://img.shields.io/badge/Foundry-F05032?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0D0D0D)
-![Circom](https://img.shields.io/badge/Circom-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D0D0D)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-9333EA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D0D0D)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D0D0D)
+![Agent Tooling](https://img.shields.io/badge/Agent_Tooling-00D9FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0D0D0D)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D0D0D)
+
+### Web, Mobile & Infra
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D0D0D)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=0D0D0D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D0D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D0D0D)
+
+### Security & Cryptography
+
+![Pentesting](https://img.shields.io/badge/Pentesting-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0D0D0D)
+![OSINT](https://img.shields.io/badge/OSINT-14B8A6?style=for-the-badge&logo=torbrowser&logoColor=white&labelColor=0D0D0D)
 ![ZK-Proofs](https://img.shields.io/badge/ZK--Proofs-FF6B6B?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&labelColor=0D0D0D)
 ![Homomorphic Enc](https://img.shields.io/badge/Homomorphic_Enc-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D0D0D)
-
-### AI & Tooling
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-9333EA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D0D0D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D0D0D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D0D)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D0D)
 
 </div>
 
@@ -66,12 +72,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xgetz&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xgetz&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xgetz&theme=github_dark" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xgetz&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xgetz&theme=github_dark" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xgetz&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xgetz&theme=github_dark&utcOffset=7" />
 
 <img src="https://streak-stats.demolab.com/?user=0xgetz&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=0xgetz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xgetz&bg_color=0D0D0D&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&area_color=7B2FBE&hide_border=true" />
 
@@ -87,30 +96,30 @@
 <tr>
 <td width="50%">
 
-### ⚡ [GitVibe](https://github.com/0xgetz/GitVibe)
+### 📱 [AeroVPN](https://github.com/0xgetz/AeroVPN)
 
 ```
-Turn any Git repo into an optimal AI coding prompt.
-Multi-platform · Self-hostable · Zero tracking
+Android VPN client with multi-protocol support
+(SSH, V2Ray/Xray, WireGuard). No ads, APK < 15MB.
 ```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Live](https://img.shields.io/badge/Live-gitvibe.space--z.ai-00D9FF?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Stars](https://img.shields.io/github/stars/0xgetz/AeroVPN?style=flat-square&color=00D9FF&labelColor=0D0D0D)
 
 </td>
 <td width="50%">
 
-### 🔒 [octrashield-dex](https://github.com/0xgetz/octrashield-dex)
+### 🧠 [nexusforge](https://github.com/0xgetz/nexusforge)
 
 ```
-Privacy DEX powered by Homomorphic Encryption.
-Encrypted AMM · MEV Protection · ZK Settlement
+Open-source AI dev platform: coding assistant,
+security scanner, and self-healing engine.
 ```
 
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![ZK](https://img.shields.io/badge/ZK--Proofs-FF6B6B?style=flat-square)
+![Multi-model](https://img.shields.io/badge/Multi--model-9333EA?style=flat-square)
+![Stars](https://img.shields.io/github/stars/0xgetz/nexusforge?style=flat-square&color=00D9FF&labelColor=0D0D0D)
 
 </td>
 </tr>
@@ -121,26 +130,56 @@ Encrypted AMM · MEV Protection · ZK Settlement
 
 ```
 Async web security scanner — 17 recon & security
-modules, single 0-100 score. Runs in CI. On PyPI.
+modules, single 0-100 score. Runs in CI.
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-FF6B6B?style=flat-square)
-![PyPI](https://img.shields.io/badge/PyPI-allowscanner-3775A9?style=flat-square&logo=pypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🗳️ [taceo-private-voting](https://github.com/0xgetz/taceo-private-voting)
+### 📈 [daily_forex_analysis](https://github.com/0xgetz/daily_forex_analysis)
 
 ```
-Privacy-preserving voting dApp via MPC + ZK.
-Groth16 verification · Merkle eligibility
+LLM-assisted FX & metals technical analysis.
+Multi-timeframe, 24/5 sessions, BYO API keys.
 ```
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=00D9FF)
-![Circom](https://img.shields.io/badge/Circom-FF6B6B?style=flat-square)
-![MPC](https://img.shields.io/badge/MPC-7B2FBE?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-9333EA?style=flat-square&logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ [GitVibe](https://github.com/0xgetz/GitVibe)
+
+```
+Turn any Git repo into an optimal AI coding prompt.
+Self-hostable · zero tracking · Ollama-friendly.
+```
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+[![Live](https://img.shields.io/badge/Live-gitvibe.space--z.ai-00D9FF?style=flat-square)](https://gitvibe.space-z.ai/)
+
+</td>
+<td width="50%">
+
+### 📚 [awesome-token-saving](https://github.com/0xgetz/awesome-token-saving)
+
+```
+3,300 practical techniques to cut LLM token usage:
+300 core principles + 3,000 applications.
+```
+
+![Awesome](https://img.shields.io/badge/Awesome-List-FC60A8?style=flat-square&logo=awesomelists&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-7B2FBE?style=flat-square)
+![Stars](https://img.shields.io/github/stars/0xgetz/awesome-token-saving?style=flat-square&color=00D9FF&labelColor=0D0D0D)
 
 </td>
 </tr>
@@ -148,14 +187,36 @@ Groth16 verification · Merkle eligibility
 
 </div>
 
+<details>
+<summary><b>&nbsp;&gt; ls ~/projects --all</b></summary>
+
+<br/>
+
+| Project | Stack | What it is |
+|---|---|---|
+| [VortexOSINT](https://github.com/0xgetz/VortexOSINT) | Python | OSINT toolkit — username, email, domain, IP & phone recon from free public sources |
+| [polymarket-btc-5m](https://github.com/0xgetz/polymarket-btc-5m) | Python | BTC 5-minute Up/Down momentum trading skill for Polymarket, with sizing controls |
+| [Daytona-Terminal-VNC](https://github.com/0xgetz/Daytona-Terminal-VNC) | Python | Sandbox launcher: browser-based terminal + VNC desktop with an AI agent inside |
+| [grok-chat-bridge](https://github.com/0xgetz/grok-chat-bridge) | Python | Stdlib-only bridge connecting Telegram/Discord/WhatsApp bots to Grok over ACP |
+| [premium-telegram-bot](https://github.com/0xgetz/premium-telegram-bot) | TypeScript | Production Telegram bot with free tier + paid features (Telegram Stars, Stripe) |
+| [resume-forge](https://github.com/0xgetz/resume-forge) | JavaScript | AI resume & cover letter builder that runs 100% in the browser |
+| [ai-scam-shield](https://github.com/0xgetz/ai-scam-shield) | Python | Detects fake "free AI credit" phishing sites and checks email breach exposure |
+| [nebula-code](https://github.com/0xgetz/nebula-code) | Rust | AI coding agent with federated learning and multi-agent orchestration |
+| [zk-fuzzer-ultra](https://github.com/0xgetz/zk-fuzzer-ultra) | Rust | ZK circuit fuzzer with LLM-guided mutation and TCCT-based bug detection |
+| [octrashield-dex](https://github.com/0xgetz/octrashield-dex) | TypeScript | Privacy DEX concept: encrypted AMM via homomorphic encryption, MEV protection |
+| [taceo-private-voting](https://github.com/0xgetz/taceo-private-voting) | Solidity · Circom | Private voting dApp — Groth16 verification, Merkle eligibility, MPC |
+| [bug-bounty-mec](https://github.com/0xgetz/bug-bounty-mec) | Report | Bug bounty research write-up: 10 original vulnerabilities in ME Hub Phase I |
+
+</details>
+
 ---
 
 ## `> echo "open to collab"`
 
 <div align="center">
 
-*I build at the intersection of privacy, cryptography, and decentralized AI.*
-*Always open to collaborating on Web3, ZK, and autonomous agent systems.*
+*I build tooling at the intersection of AI agents, security, and privacy —*
+*open source by default, self-hostable, and runnable with your own API keys.*
 
 <br/>
 
