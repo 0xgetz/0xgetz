@@ -19,7 +19,7 @@
 ```
 +----------------------------------------------------------------------+
 |  > whoami                                                            |
-|  Eyren -- Developer & Security Researcher (Indonesia)                |
+|  0xgetz -- Developer & Security Researcher (Chinese)                |
 |  Focus:     AI agents · dev tooling · security · privacy · Web3      |
 |  Languages: Python · TypeScript · Rust · Kotlin · Solidity           |
 |  Ethos:     Open source. Self-hostable. Bring your own key.          |
