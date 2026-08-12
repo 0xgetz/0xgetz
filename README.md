@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=760&lines=%3E+Building+AI+Agents+%26+Dev+Tooling_%3B%3E+Security+Tooling+%7C+Privacy+%7C+Web3_%3B%3E+Python+%7C+TypeScript+%7C+Rust+%7C+Kotlin_%3B%3E+Open+Source%2C+Bring+Your+Own+Key_" alt="Typing SVG" />
+<img src="assets/banner.png" alt="0xgetz Banner" width="100%" />
+
+<p>&nbsp;</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=760&lines=%3E+Building+AI+Agents+%26+Dev+Tooling_%3B%3E+Security+Tooling+%7C+Privacy+%7C+Web3_%3B%3E+Python+%7C+TypeScript+%7C+Rust+%7C+Kotlin_%3B%3E+Open+Source%2C+Bring+Your+Own+Key_" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +23,7 @@
 ```
 +----------------------------------------------------------------------+
 |  > whoami                                                            |
-|  0xgetz -- Developer & Security Researcher (Chinese)                |
+|  0xgetz -- Software Engineer & Security Researcher                  |
 |  Focus:     AI agents · dev tooling · security · privacy · Web3      |
 |  Languages: Python · TypeScript · Rust · Kotlin · Solidity           |
 |  Ethos:     Open source. Self-hostable. Bring your own key.          |
@@ -34,7 +38,7 @@
 
 <div align="center">
 
-### Languages
+### Languages & Core Runtimes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D0D0D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0D0D)
@@ -43,14 +47,14 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00D9FF&labelColor=0D0D0D)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D0D0D)
 
-### AI & Agents
+### AI & Autonomous Agents
 
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-9333EA?style=for-the-badge&logoColor=white&labelColor=0D0D0D)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D0D0D)
 ![Agent Tooling](https://img.shields.io/badge/Agent_Tooling-00D9FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0D0D0D)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B2FBE?style=for-the-badge&logoColor=white&labelColor=0D0D0D)
 
-### Web, Mobile & Infra
+### Web, Mobile & Infrastructure
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D0D0D)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=0D0D0D)
