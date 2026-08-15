@@ -10,10 +10,8 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40_0xgetz-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D)](https://twitter.com/0xgetz)
 [![GitHub](https://img.shields.io/badge/GitHub-0xgetz-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
 [![Telegram](https://img.shields.io/badge/Telegram-eyrenx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/eyrenx)
-[![Email](https://img.shields.io/badge/Email-eyrenlans-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:eyrenlans@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=0xgetz&color=00D9FF&style=for-the-badge&label=VISITORS)](https://github.com/0xgetz)
 
 </div>
@@ -263,9 +261,7 @@ Polymarket — sizing controls, optional micro-hedge.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D)](https://twitter.com/0xgetz)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/eyrenx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:eyrenlans@gmail.com)
 
 </div>
 
