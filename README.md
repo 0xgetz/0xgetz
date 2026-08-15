@@ -21,7 +21,7 @@
 ```
 +----------------------------------------------------------------------+
 |  > whoami                                                            |
-|  0xgetz -- Software Engineer & Security Researcher                  |
+|  0xgetz -- Software Engineer & Security Researcher                   |
 |  Focus:     AI agents · dev tooling · security · privacy · Web3      |
 |  Languages: Python · TypeScript · Rust · Kotlin · Solidity           |
 |  Ethos:     Open source. Self-hostable. Bring your own key.          |
