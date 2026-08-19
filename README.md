@@ -152,7 +152,6 @@ Multi-timeframe indicators, 24/5 sessions, BYO keys.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-9333EA?style=flat-square)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 </td>
 </tr>
