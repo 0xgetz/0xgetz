@@ -11,6 +11,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0xgetz-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
+[![Telegram](https://img.shields.io/badge/Telegram-xiyyyyz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/xiyyyyz)
 [![Visitors](https://komarev.com/ghpvc/?username=0xgetz&color=00D9FF&style=for-the-badge&label=VISITORS)](https://github.com/0xgetz)
 
 </div>
@@ -259,6 +260,7 @@ Polymarket — sizing controls, optional micro-hedge.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/xiyyyyz)
 
 </div>
 
