@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0xgetz-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/0xgetz)
 [![Telegram](https://img.shields.io/badge/Telegram-xiyyyyz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/xiyyyyz)
-[![Team](https://img.shields.io/badge/Team-Black_Coder_Crush-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/ngeshare_bcc)
+[![Team](https://img.shields.io/badge/Inspector_AI-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D)](https://t.me/inspectoraiofc)
 [![Visitors](https://komarev.com/ghpvc/?username=0xgetz&color=00D9FF&style=for-the-badge&label=VISITORS)](https://github.com/0xgetz)
 
 </div>
